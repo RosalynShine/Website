@@ -1,0 +1,4 @@
+sitemap: https://www.rosalynshine.com/sitemap.xml
+
+User-agent: *
+Disallow: /secret-page/index.html
